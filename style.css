@@ -1,0 +1,79 @@
+body{
+    background-color: #3B3C42;
+}
+
+
+.navbar-nav{
+    background-color: #3f5b729d;
+    border-radius: 10px ;
+}
+
+.profileImg{
+    width: 300px;
+    height: auto;
+    display: block;
+    text-align: center;
+    margin-top: -10%;
+    position: absolute;
+    color: aliceblue;
+}
+
+
+.navLink{
+    font-family:  Secular One;
+    color: rgb(224, 231, 238) !important ;
+    font-size: 120%;
+    font-weight: bold;
+    margin: 5px;
+    transition: 0.7s;
+ 
+
+}
+
+ .navLink:hover{
+    color: #84deee !important;   
+    
+}
+
+
+.fa-linkedin{
+    font-size: 5vw;
+    color: #3296e9;
+}
+
+
+.fa-linkedin:hover{
+    color: #41a2f1;
+}
+
+
+
+.fa-instagram{
+    font-size: 5vw;
+    color: rgb(243, 220, 138);
+}
+
+.fa-instagram:hover{
+    color: #f0fd3e;
+}
+
+
+
+.fa-github{
+    font-size: 5vw;
+    color: rgb(200, 200, 252);
+}
+
+.fa-github:hover{
+    color: #3B3C42;
+}
+
+
+.modal-title{
+    text-align: center !important;
+}
+
+#exampleModalLabel{
+    margin-left: 38%;
+    color: #3296e9;
+}
